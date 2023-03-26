@@ -1,0 +1,19 @@
+{
+  "name": "enhancedrgb",
+  "version": "1.0.0",
+  "description": "Replicate the display to LED strip behind the display to enhance the viewing experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikhil-Wagh/EnhancedRGB.git"
+  },
+  "author": "Nikhil Wagh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikhil-Wagh/EnhancedRGB/issues"
+  },
+  "homepage": "https://github.com/Nikhil-Wagh/EnhancedRGB#readme"
+}
